@@ -1,1 +1,35 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"Name":"The Pioneer","Address":"2401 S University Boulevard, Denver, CO, 80210","Website":"http://www.thepioneerbar.com"},"geometry":{"type":"Point","coordinates":[-104.9595433473587,39.67289555823826]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Pioneer",
+        "Address": "2401 S University Boulevard, Denver, CO, 80210",
+        "Website": "http://www.thepioneerbar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9595433473587,
+          39.67289555823826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chipotle",
+        "Address": "5000 evans avenue denver co 80210",
+        "Website": "http://www.chipotle.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.96834635734558,
+          39.678333239026166
+        ]
+      }
+    }
+  ]
+}
