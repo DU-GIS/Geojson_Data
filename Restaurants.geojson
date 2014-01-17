@@ -26,8 +26,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.96834635734558,
-          39.678333239026166
+          -104.96776700019836,
+          39.678324981673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Illegal Pete's",
+        "Address": "1744 East Evans Avenue Denver, CO, 80210",
+        "Website": "http://www.illegalpetes.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.96666193008423,
+          39.67830020960751
         ]
       }
     }
