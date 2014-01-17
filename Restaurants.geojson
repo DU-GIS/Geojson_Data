@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Name": "The Pioneer",
-        "Address": "2401 S University Boulevard, Denver, CO, 80210",
+        "Address": "2401 South University Boulevard, Denver, CO, 80210",
         "Website": "http://www.thepioneerbar.com"
       },
       "geometry": {
@@ -20,7 +20,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Chipotle",
-        "Address": "5000 evans avenue denver co 80210",
+        "Address": "1644 East Evans Avenue Denver, CO, 80201",
         "Website": "http://www.chipotle.com"
       },
       "geometry": {
