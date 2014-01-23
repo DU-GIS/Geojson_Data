@@ -1,4 +1,4 @@
-var restaurants = {
+{
   "type": "FeatureCollection",
   "features": [
     {
