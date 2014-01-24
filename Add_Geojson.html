@@ -24,7 +24,7 @@ var map = L.mapbox.map('map', 'examples.map-9ijuk24y')
 // So the CSV file must be on the same domain as the Javascript, or the server
 // delivering it should support CORS.
 var markerLayer = L.mapbox.markerLayer()
-    .loadURL('https://raw.github.com/DU-GIS/Geojson_Data/master/Restaurants.geojson')
+    .loadURL('restaurants.geojson')
     .addTo(map);
 </script>
 </body>
