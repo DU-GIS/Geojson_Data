@@ -6,7 +6,8 @@
       "properties": {
         "Name": "The Pioneer",
         "Address": "2401 South University Boulevard, Denver, CO, 80210",
-        "Website": "http://www.thepioneerbar.com"
+        "Website": "http://www.thepioneerbar.com",
+        "Type": "Mexican"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "Name": "Chipotle",
         "Address": "1644 East Evans Avenue Denver, CO, 80201",
-        "Website": "http://www.chipotle.com"
+        "Website": "http://www.chipotle.com",
+        "Type": "Mexican"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +38,8 @@
       "properties": {
         "Name": "Illegal Pete's",
         "Address": "1744 East Evans Avenue Denver, CO, 80210",
-        "Website": "http://www.illegalpetes.com"
+        "Website": "http://www.illegalpetes.com",
+        "Type": "Mexican"
       },
       "geometry": {
         "type": "Point",
