@@ -48,6 +48,22 @@
           39.67830020960751
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wendy's",
+        "Address": "2485 S University Blvd Denver, CO 80210",
+        "Website": "http://www.wendys.com",
+        "Type": "Fast Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.95972573757172,
+          39.67178484793644
+        ]
+      }
     }
   ]
 }
