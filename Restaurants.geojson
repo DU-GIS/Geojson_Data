@@ -80,6 +80,22 @@
           39.67831259564137
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Starbucks",
+        "Address": "2000 S University Blvd Denver, CO 80210",
+        "Website": "http://www.starbucks.com",
+        "Type": "Coffee Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.95886206626892,
+          39.67993927545167
+        ]
+      }
     }
   ]
 }
