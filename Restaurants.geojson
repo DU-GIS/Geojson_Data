@@ -64,6 +64,22 @@
           39.67178484793644
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jerusalem Restaurant",
+        "Address": "1890 E Evans Ave Denver, CO 80210",
+        "Website": "http://www.jerusalemrestaurant.com",
+        "Type": "Middle Eastern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9653959274292,
+          39.67831259564137
+        ]
+      }
     }
   ]
 }
