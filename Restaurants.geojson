@@ -96,6 +96,22 @@
           39.67993927545167
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jason's Thai",
+        "Address": "2022 S University Blvd Denver, CO 80210",
+        "Website": "http://www.jasonsthai.com",
+        "Type": "Asian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.95902836322784,
+          39.67952228757857
+        ]
+      }
     }
   ]
 }
