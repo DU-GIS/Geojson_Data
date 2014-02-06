@@ -20,5 +20,5 @@ Values: {http://www.[website_name].com}
 
 Column: Type
 
-Values: {Mexican, Fast Food, Asian, Coffee Shop, Middle Eastern}
+Values: {Mexican, Fast Food, Asian, Coffee Shop, Middle Eastern, Pizza, Bakery}
 
