@@ -112,6 +112,22 @@
           39.67952228757857
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blackjack Pizza",
+        "Address": "2443 S University Blvd Denver, CO 80210",
+        "Website": "http://www.blackjackpizza.com",
+        "Type": "Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.95979011058807,
+          39.67220601156551
+        ]
+      }
     }
   ]
 }
