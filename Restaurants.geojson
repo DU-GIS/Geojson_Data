@@ -128,6 +128,22 @@
           39.67220601156551
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Front Porch Cafe",
+        "Address": "Address :)",
+        "Website": "du-dining.com",
+        "Type": "Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.96185541152953,
+          39.677746964496585
+        ]
+      }
     }
   ]
 }
