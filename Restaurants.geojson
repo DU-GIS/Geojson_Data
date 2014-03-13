@@ -132,16 +132,16 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Qdoba ",
-        "Address": "2100 S University Blvd, Denver, CO ‎",
-        "Website": "http://www.qdoba.com",
-        "Type": "Mexican"
+        "Name": "Front Porch Cafe",
+        "Address": "Address :)",
+        "Website": "du-dining.com",
+        "Type": "Food"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.95921611785887,
-          39.67828369489225
+          -104.96185541152953,
+          39.677746964496585
         ]
       }
     }
